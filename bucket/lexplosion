@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "My App",
+    "homepage": "https://example.com",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/user-attachments/files/23969665/Lexplosion-main.zip",
+            "hash": "sha256:5972DA0EC88173C61EB0E2EAD7882D780409479DB3CD6F51F5DC64BFBDDC449C"
+        }
+    },
+    "bin": "Lexplosion.exe"
+}
