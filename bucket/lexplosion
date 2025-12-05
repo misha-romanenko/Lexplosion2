@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "description": "My App",
-    "homepage": "https://example.com",
+    "homepage": "https://github.com/misha-romanenko/Lexplosion2",
     "architecture": {
         "64bit": {
             "url": "https://github.com/user-attachments/files/23969665/Lexplosion-main.zip",
