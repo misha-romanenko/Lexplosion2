@@ -2,7 +2,7 @@
     "version": "2.0",
     "description": "Lexplosion2 game/app",
     "homepage": "https://github.com/misha-romanenko/Lexplosion2",
-    "url": "https://github.com/misha-romanenko/Lexplosion2/releases/download/ez/Lexplosion.exe",
-    "hash": "5972DA0EC88173C61EB0E2EAD7882D780409479DB3CD6F51F5DC64BFBDDC449C",
+    "url": "https://github.com/misha-romanenko/Lexplosion2/releases/download/Lexplosion-try-2/Lexplosion.exe",
+    "hash": "585244c280a36703e96089db002955f01d5ceba3b3abba618689005c93056c63",
     "bin": "Lexplosion.exe"
 }
